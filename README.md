@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Celly-7
+- 👋 Hi, I’m @Celly-7 | Andy Hsu
 - 👀 I’m interested in computer science | gaming
 - 🌱 I’m currently learning Java | C# | Javascript
 - 💞️ I’m looking to collaborate on ...
