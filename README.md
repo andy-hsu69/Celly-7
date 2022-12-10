@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Celly-7 | Andy Hsu
-- 👀 I’m interested in computer science | gaming
+- 👀 I’m interested in computer science | gaming | currently studying at the University of Utah
 - 🌱 I’m currently learning Java | C# | Javascript
 - 📫 How to reach me - andy.hsu69@gmail.com
 
